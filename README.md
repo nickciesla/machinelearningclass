@@ -3,8 +3,9 @@
 ### imports
 > List of imports used throught projects
 ### iris
-> Exploration
-> Visualization
+>
+  - Exploration
+  - Visualization
 ### linearregression
 > Generate random sample
 > Simple Linear Regression
